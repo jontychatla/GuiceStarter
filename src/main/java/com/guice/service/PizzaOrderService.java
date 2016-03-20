@@ -3,8 +3,6 @@ package com.guice.service;
 import com.google.inject.Inject;
 import com.guice.model.CreditCard;
 import com.guice.model.Order;
-import org.junit.runner.RunWith;
-import org.mockito.runners.MockitoJUnitRunner;
 
 public class PizzaOrderService {
 
